@@ -281,3 +281,6 @@ function TimerIcon(props) {
     </svg>
   )
 }
+
+export default class Header {
+}
